@@ -1,6 +1,6 @@
 My branch
-A  -  B
+A  -  B  - C
 
 Teammate Branch
 
-AA  - BB
+AA  - BB  - CC
