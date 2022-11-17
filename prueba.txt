@@ -1,2 +1,2 @@
 My branch
-A  -  B
+A  -  B  - C
